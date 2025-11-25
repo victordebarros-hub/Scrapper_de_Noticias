@@ -10,7 +10,7 @@ NEWS_SITES = {
     "BBC Brasil": "https://www.bbc.com/portuguese",
     "CNN Brasil": "https://www.cnnbrasil.com.br/",
     "Folha de S.Paulo": "https://www.folha.uol.com.br/",
-    "UOL Notícias": "https://noticias.uol.com.br/"
+    "UOL Notícias": "https://uol.com.br/"
 }
 
 
