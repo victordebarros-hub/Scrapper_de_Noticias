@@ -60,7 +60,7 @@ st.set_page_config(
 )
 
 st.title("📰 Scraper de Notícias")
-st.write("Selecione um portal e visualize as **10 principais manchetes**.")
+st.write("Selecione um portal e visualize as **principais manchetes**.")
 
 site = st.selectbox("Portal de notícias:", list(NEWS_SITES.keys()))
 
